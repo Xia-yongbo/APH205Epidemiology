@@ -227,8 +227,6 @@ APH205流行病/
 - Assessed bias, confounding, measurement validity, generalizability, and alternative study designs in observational research.
 - Synthesized and presented an occupational epidemiology study to a multidisciplinary audience in a time-limited oral presentation.
 
-> 上述英文要点可作为简历或文书素材，但正式申请时应根据目标项目调整措辞，并避免把课程数据库分析描述为已发表研究或独立主持的科研项目。
-
 ## 一句话总结
 
 APH205 的三项成果展示了我对流行病学研究从“读懂、质疑、表达”到“整理数据、建立模型、谨慎解释”的完整训练，也构成了我申请公共卫生、流行病学或健康数据相关硕士项目的重要学术基础。
